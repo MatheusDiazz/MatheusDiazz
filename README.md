@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @MatheusDiaz
-- 👀 I’m interested in Power BI, SQL and Excel
-- 🌱 I’m currently learning Microsoft Power BI
-- 📫 How to reach me matheusdz155@gmail.com 
+@@ -1,15 +1,15 @@
+<h1 align="center">Hi 👋, I'm Matheus</h1>
+<h3 align="center">Aspiring data analyst from Ecuador</h3>
+- 🌱 I’m currently learning **Microsoft PowerBI**
+- 👨‍💻 All of my projects are available at [https://github.com/Govindan-S](https://github.com/Govindan-S)
+- 📫 How to reach me **matheusdz155@gmail.com**
 
-<!---
-MatheusDiazz/MatheusDiazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
