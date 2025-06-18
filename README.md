@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">Aspiring data analyst</h3>
-- 🌱 I’m currently learning **Microsoft PowerBI**
-- 👨‍💻 All of my projects are available at [https://github.com/MatheusDiazz]
-- 📫 How to reach me **matheusdz155@gmail.com**
+-  I’m currently learning **Microsoft PowerBI**
+- email: **matheusdz155@gmail.com**
 
 
